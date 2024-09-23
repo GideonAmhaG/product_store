@@ -1,6 +1,6 @@
 # Product Store Application
 
-This is a MERN (MongoDB, Express, React, Node.js) stack application for managing real estate listings.
+The Product Store Application is a robust and scalable e-commerce platform built using the MERN stack (MongoDB, Express, React, Node.js). It offers a comprehensive solution for managing and browsing products with a modern and responsive user interface.
 
 ## Live Demo
 
