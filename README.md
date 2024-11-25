@@ -4,7 +4,7 @@ The Product Store Application is a robust and scalable e-commerce platform built
 
 ## Live Demo
 
-Check out the live demo of Product Store Application [here](https://prstoreapi.phaedrusstudios.com/).
+Check out the live demo of Product Store Application [here](https://productst.phaedrusstudios.com/).
 
 ## Features
 
